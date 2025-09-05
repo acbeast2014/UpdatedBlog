@@ -1,0 +1,15 @@
+title: blogAdrian
+baseurl: ""
+url: "https://blogadrian.com"
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: Customize minima
+minima:
+  skin: dark
+
+nav_pages:
+    - about.md
