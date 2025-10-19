@@ -1,1 +1,10 @@
 // Placeholder to allow overriding predefined variables smoothly.
+// Override Minima's default variables
+$base-font-family: "Your Font", default;
+$base-font-size:   18px;
+$base-line-height: 1.6;
+
+$brand-color:      rgb(68, 0, 128);
+$background-color: transparent;
+$spacing-unit:     2rem;
+$content-width:    1000px; // Set this back to a reasonable width

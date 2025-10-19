@@ -62,12 +62,12 @@ main {
 
 /**
  * Images
- */
-img {
-  max-width: 100%;
-  vertical-align: middle;
-}
-
+ *
+*img {
+*  max-width: 100%;
+*  vertical-align: middle;
+*}
+*/
 
 
 /**
@@ -109,31 +109,6 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-/**
- * Links
- */
-a {
-  color: $link-base-color;
-  text-decoration: none;
-
-  &:visited {
-    color: $link-visited-color;
-  }
-
-  &:hover {
-    color: $link-hover-color;
-    text-decoration: underline $brand-color;
-    text-underline-offset: 3px;
-  }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
-}
 
 
 /**
@@ -294,3 +269,4 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+

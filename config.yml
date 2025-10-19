@@ -7,9 +7,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Optional: Customize minima
-minima:
-  skin: dark
+
 
 nav_pages:
     - about.md
+
+sass:
+  sass_dir: sass
+  style: compressed

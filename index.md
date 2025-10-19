@@ -5,7 +5,10 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: default
 ---
 
 # Perversion, Fetish and the Television
+
+![Voigt Song Earth](/assets/images/VoigtSongEarth.jpg){: .home-hero-image}
+<img src="/assets/images/VoigtSongEarth.jpg" alt="Voigt Song Earth" class="home-hero-image">

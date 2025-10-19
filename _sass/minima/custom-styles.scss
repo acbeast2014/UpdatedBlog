@@ -1,2 +1,38 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+// Your background image
+
+// Semi-transparent content areas
+.site-header, 
+.site-footer, 
+.wrapper {
+  background-color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+}
+
+// Blog link styles
+.blog-link {
+  background-color: $brand-color;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: bold;
+  
+  &:hover {
+    background-color: darken($brand-color, 15%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+}
+
+
+.home main img.home-hero-image,
+.home .wrapper img.home-hero-image,
+.content img.home-hero-image {
+  display: inline-block;
+  width: 50px;
+  height: auto;
+  max-width: none;
+}
