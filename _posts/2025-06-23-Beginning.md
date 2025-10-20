@@ -5,13 +5,13 @@ author: Adrian
 
 Buildings that curve
 
-*“Everything returns or recurs: States, nations,
+_“Everything returns or recurs: States, nations,_
 
-families. That is what makes the ideology of capitalism "a motley painting of
+_families. That is what makes the ideology of capitalism "a motley painting of_
 
-everything that has ever been believed." The real is not impossible; it is simply
+_everything that has ever been believed." The real is not impossible; it is simply_
 
-more and more artificial.”* 
+_more and more artificial.”_
 
 I wrote this while I was visitng Berlin:
 
@@ -22,3 +22,5 @@ Today was my first day in Berlin, I wove in and out of crowds and trains quietly
 I lied to a worker today. I said I was going to wash my hands but I went in and pissed. I ran the faucet the whole time and coughed when I flushed. I walked out hands visibly wet and said danke. I hope he knows I’m sorry.
 
 I was going to edit most of this, probably remove all of it. Theres something here I'm kinda ashamed of. Its either the fact that I'm embarassed of the story or that what I wrote isnt good.
+
+

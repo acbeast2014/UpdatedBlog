@@ -28,11 +28,12 @@
 }
 
 
-.home main img.home-hero-image,
-.home .wrapper img.home-hero-image,
-.content img.home-hero-image {
-  display: inline-block;
-  width: 50px;
-  height: auto;
-  max-width: none;
+
+
+img.home-hero-image {
+  width: 300px !important;
+  height: auto !important;
+  object-fit: cover !important;
+  max-width: none !important;
+  display: inline-block !important; // Prevents block-level stretching
 }

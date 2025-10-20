@@ -8,7 +8,6 @@
 layout: default
 ---
 
-# Perversion, Fetish and the Television
+# Perversion and the Television
+<img src="/assets/images/VoigtSongEarth.jpg" alt="" class="home-hero-image" style="width: 1000px;">
 
-![Voigt Song Earth](/assets/images/VoigtSongEarth.jpg){: .home-hero-image}
-<img src="/assets/images/VoigtSongEarth.jpg" alt="Voigt Song Earth" class="home-hero-image">
